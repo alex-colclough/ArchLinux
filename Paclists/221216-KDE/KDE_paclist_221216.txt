@@ -1,7 +1,7 @@
 ark
-dolphin
+thunar
 egl-wayland
-konsole
+kitty
 kwrite
 networkmanager-qt
 packagekit-qt5
