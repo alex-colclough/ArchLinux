@@ -16,3 +16,4 @@ ttf-liberation
 ttf-opensans
 ttf-roboto
 ttf-ubuntu-font-family
+ttf-nerd-fonts-symbols-2048-em
